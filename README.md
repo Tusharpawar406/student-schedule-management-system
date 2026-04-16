@@ -90,14 +90,6 @@ If you set a MySQL password, put it in the `$pass = ""` line.
 
 
 
-## STEP 7 — Add screenshots to PPT
-
-1. Open `presentation.pptx` (included in this zip)
-2. Go to Slide 9 (Screenshots slide)
-3. Take screenshots of your running website pages
-4. Replace the grey `[Screenshot]` boxes with your actual screenshots
-
-
 ## PROJECT STRUCTURE EXPLAINED
 
 
